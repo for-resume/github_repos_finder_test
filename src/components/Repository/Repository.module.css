@@ -1,0 +1,13 @@
+.repository {
+  margin-top: 2rem;
+}
+
+.repositoryContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  margin-right: 0.5rem;
+}

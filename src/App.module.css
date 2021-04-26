@@ -1,0 +1,18 @@
+.title {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.text {
+  text-align: center;
+}
+
+.notFound {
+  text-align: center;
+}
+
+.paginate {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
